@@ -1,0 +1,686 @@
+{
+  "general": {
+    "profilePhoto": "/content/media/profilePhoto.jpg",
+    "username": "nidal",
+    "displayName": "Nidal Benatia",
+    "profession": "Senior Product Designer",
+    "location": null,
+    "pronouns": "he/him",
+    "byline": "Senior Product Designer, he/him",
+    "website": "kralstudio.com",
+    "websiteURL": "http://kralstudio.com",
+    "about": "Senior Product Designer working with business with the goal of creating unique and people-friendly digital experiences.\n\nOver the last 10 years, I helped design $20M+ ARR companies with $150M+ valuation from scratch and raise over $50M in venture capital.\n\nI worked with: Solana, Pokémon GO,... and more\n\nMost of my latest work is under NDA, so I collected different designs from different projects [HERE](http://figma.com/file/701DxkeTLOGtwtqGrq0hoS/Nidal-Work-Samples?node-id=0:1)",
+    "status": {
+      "text": null,
+      "emoji": null,
+      "timestamp": null
+    },
+    "sectionOrder": [
+      "Side Projects",
+      "Exhibitions",
+      "Work Experience",
+      "Projects",
+      "Awards",
+      "Writing",
+      "Features",
+      "Volunteering",
+      "Speaking",
+      "Education",
+      "Certifications",
+      "Contact",
+      "Teams"
+    ]
+  },
+  "projects": [
+    {
+      "id": "PTqdaxh4cYzhlzn6StAj",
+      "year": "Ongoing",
+      "heading": "Kral Team",
+      "url": "http://kralteam.com",
+      "collaborators": [],
+      "description": "In early 2022, I decided to start a design team to help SaaS startups save money and make money by providing our expertise as a product design team for a flat monthly fee.\n\nWe partnered with 8 SaaS startups so far, and the results were pretty phenomenal. We helped startups achieve a +150m valuation while saving them 65% of the cost of hiring one full-time senior product designer.\n\nMy mission with this team is to be the \"SaaS Design Partner.\"",
+      "attachments": [],
+      "type": "project",
+      "title": "Kral Team",
+      "company": null
+    }
+  ],
+  "sideProjects": [],
+  "exhibitions": [],
+  "talks": [],
+  "writing": [
+    {
+      "id": "5SSlaMM2v1WUFwls6hCl",
+      "year": "2022",
+      "heading": "Business thinking for product designers, Nidal Benatia",
+      "url": "https://medium.com/@nben./business-thinking-for-product-designers-786999c1285a",
+      "collaborators": [],
+      "description": "Designers play a crucial role in the success of a business, as they are responsible for creating the visual elements that communicate a…",
+      "attachments": [],
+      "type": "writing",
+      "title": "Business thinking for product designers",
+      "publisher": "Nidal Benatia"
+    },
+    {
+      "id": "3Tp4XnLOhkqch5bzspuq",
+      "year": "2022",
+      "heading": "Design Thinking? Your Beginners Guide, Nidal Benatia",
+      "url": "https://medium.com/@nben./design-thinking-your-beginners-guide-medium-345c5b227f12",
+      "collaborators": [],
+      "description": "Design thinking is a problem-solving approach that involves understanding the needs of users, generating ideas, prototyping, and testing…",
+      "attachments": [],
+      "type": "writing",
+      "title": "Design Thinking? Your Beginners Guide",
+      "publisher": "Nidal Benatia"
+    }
+  ],
+  "awards": [],
+  "features": [],
+  "workExperience": [
+    {
+      "id": "71wWegahFcXZXSeYtASe",
+      "year": "2019 — Now",
+      "heading": "Product Design Consultant/Advisor at Solana, Pokèmon GO, Letswork, Eversify, Lotus, Blee, Raasel, Brandable, STYLUS",
+      "url": null,
+      "collaborators": [],
+      "description": "I helped clients fulfill their design goals through workshops, brainstorming sessions, and milestone-building.\n\nI did this by auditing applications, websites, and other digital products to identify places where the design can be improved upon.\\\n\\\nAnd even designing the product myself.",
+      "attachments": [
+        {
+          "type": "image",
+          "width": 2000,
+          "height": 2000,
+          "url": "/content/media/Product-Design-ConsultantAdvisor-at-Solana-Pokemon-GO-Letswork-Eversify-Lotus-Blee-Raasel-Brandable-STYLUS-1.png"
+        },
+        {
+          "type": "image",
+          "width": 2000,
+          "height": 2000,
+          "url": "/content/media/Product-Design-ConsultantAdvisor-at-Solana-Pokemon-GO-Letswork-Eversify-Lotus-Blee-Raasel-Brandable-STYLUS-2.png"
+        },
+        {
+          "type": "image",
+          "width": 2000,
+          "height": 2000,
+          "url": "/content/media/Product-Design-ConsultantAdvisor-at-Solana-Pokemon-GO-Letswork-Eversify-Lotus-Blee-Raasel-Brandable-STYLUS-3.png"
+        },
+        {
+          "type": "image",
+          "width": 2000,
+          "height": 2000,
+          "url": "/content/media/Product-Design-ConsultantAdvisor-at-Solana-Pokemon-GO-Letswork-Eversify-Lotus-Blee-Raasel-Brandable-STYLUS-4.png"
+        },
+        {
+          "type": "image",
+          "width": 2000,
+          "height": 2000,
+          "url": "/content/media/Product-Design-ConsultantAdvisor-at-Solana-Pokemon-GO-Letswork-Eversify-Lotus-Blee-Raasel-Brandable-STYLUS-5.png"
+        },
+        {
+          "type": "image",
+          "width": 2000,
+          "height": 2000,
+          "url": "/content/media/Product-Design-ConsultantAdvisor-at-Solana-Pokemon-GO-Letswork-Eversify-Lotus-Blee-Raasel-Brandable-STYLUS-6.png"
+        },
+        {
+          "type": "image",
+          "width": 2000,
+          "height": 2000,
+          "url": "/content/media/Product-Design-ConsultantAdvisor-at-Solana-Pokemon-GO-Letswork-Eversify-Lotus-Blee-Raasel-Brandable-STYLUS-7.png"
+        },
+        {
+          "type": "image",
+          "width": 2000,
+          "height": 2000,
+          "url": "/content/media/Product-Design-ConsultantAdvisor-at-Solana-Pokemon-GO-Letswork-Eversify-Lotus-Blee-Raasel-Brandable-STYLUS-8.png"
+        },
+        {
+          "type": "image",
+          "width": 2000,
+          "height": 2000,
+          "url": "/content/media/Product-Design-ConsultantAdvisor-at-Solana-Pokemon-GO-Letswork-Eversify-Lotus-Blee-Raasel-Brandable-STYLUS-9.png"
+        },
+        {
+          "type": "image",
+          "width": 2000,
+          "height": 2000,
+          "url": "/content/media/Product-Design-ConsultantAdvisor-at-Solana-Pokemon-GO-Letswork-Eversify-Lotus-Blee-Raasel-Brandable-STYLUS-10.png"
+        },
+        {
+          "type": "image",
+          "width": 2000,
+          "height": 2000,
+          "url": "/content/media/Product-Design-ConsultantAdvisor-at-Solana-Pokemon-GO-Letswork-Eversify-Lotus-Blee-Raasel-Brandable-STYLUS-11.png"
+        },
+        {
+          "type": "image",
+          "width": 2000,
+          "height": 2000,
+          "url": "/content/media/Product-Design-ConsultantAdvisor-at-Solana-Pokemon-GO-Letswork-Eversify-Lotus-Blee-Raasel-Brandable-STYLUS-12.png"
+        },
+        {
+          "type": "image",
+          "width": 2000,
+          "height": 2000,
+          "url": "/content/media/Product-Design-ConsultantAdvisor-at-Solana-Pokemon-GO-Letswork-Eversify-Lotus-Blee-Raasel-Brandable-STYLUS-13.png"
+        },
+        {
+          "type": "image",
+          "width": 2000,
+          "height": 2000,
+          "url": "/content/media/Product-Design-ConsultantAdvisor-at-Solana-Pokemon-GO-Letswork-Eversify-Lotus-Blee-Raasel-Brandable-STYLUS-14.png"
+        },
+        {
+          "type": "image",
+          "width": 2000,
+          "height": 2000,
+          "url": "/content/media/Product-Design-ConsultantAdvisor-at-Solana-Pokemon-GO-Letswork-Eversify-Lotus-Blee-Raasel-Brandable-STYLUS-15.png"
+        }
+      ],
+      "type": "workExperience",
+      "title": "Product Design Consultant/Advisor",
+      "company": "Solana, Pokèmon GO, Letswork, Eversify, Lotus, Blee, Raasel, Brandable, STYLUS",
+      "location": ""
+    },
+    {
+      "id": "1MDACGpJ7NrZ15iUNvui",
+      "year": "2021 — 2023",
+      "heading": "Head of Design at TOKI",
+      "url": "https://www.buildwithtoki.com/",
+      "collaborators": [],
+      "description": "The next generation of retention, community, and loyalty for e-commerce brands. Built on the blockchain.",
+      "attachments": [
+        {
+          "type": "image",
+          "width": 2000,
+          "height": 2000,
+          "url": "/content/media/Head-of-Design-at-TOKI-1.png"
+        },
+        {
+          "type": "image",
+          "width": 2000,
+          "height": 2000,
+          "url": "/content/media/Head-of-Design-at-TOKI-2.png"
+        },
+        {
+          "type": "image",
+          "width": 2000,
+          "height": 2000,
+          "url": "/content/media/Head-of-Design-at-TOKI-3.png"
+        },
+        {
+          "type": "image",
+          "width": 2000,
+          "height": 2000,
+          "url": "/content/media/Head-of-Design-at-TOKI-4.png"
+        },
+        {
+          "type": "image",
+          "width": 2000,
+          "height": 2000,
+          "url": "/content/media/Head-of-Design-at-TOKI-5.png"
+        }
+      ],
+      "type": "workExperience",
+      "title": "Head of Design",
+      "company": "TOKI",
+      "location": "Miami, FL"
+    },
+    {
+      "id": "CYaoodRQsPg74l6APos7",
+      "year": "2019 — 2021",
+      "heading": "Founding Product Designer at Topsort",
+      "url": "https://www.topsort.com/",
+      "collaborators": [],
+      "description": "Topsort is an auction-powered API that accelerates your marketplace growth, from multi-brand retailers and marketplaces, to create better relevancy, margin, and user happiness.",
+      "attachments": [],
+      "type": "workExperience",
+      "title": "Founding Product Designer",
+      "company": "Topsort",
+      "location": "Bay Area, SF"
+    },
+    {
+      "id": "cYcHNGGztsSMQ8yPAc99",
+      "year": "2019 — 2020",
+      "heading": "Senior Product Designer at Ureed",
+      "url": "https://ureed.com/",
+      "collaborators": [],
+      "description": "Ureed.com is a platform that connects expert freelancers with employers looking for professional services in content creation and translation.",
+      "attachments": [],
+      "type": "workExperience",
+      "title": "Senior Product Designer",
+      "company": "Ureed",
+      "location": "Dubai, UAE"
+    },
+    {
+      "id": "wkr2rwNYfPn6yaF0ZX6i",
+      "year": "2018 — 2019",
+      "heading": "Design Lead at Pickmeup",
+      "url": null,
+      "collaborators": [],
+      "description": "Pickmeup allows you to book a safe and reliable ride in minutes using your smartphone. It uses GPS technology to directly connect passengers to nearby drivers in just a few seconds. Our mobile App is extremely simple and very user-friendly. You can sign up within seconds and start booking rides immediately.",
+      "attachments": [],
+      "type": "workExperience",
+      "title": "Design Lead",
+      "company": "Pickmeup",
+      "location": "San Francisco, CA"
+    }
+  ],
+  "volunteering": [
+    {
+      "id": "QktIHspfisfgWSxOmces",
+      "year": "2020 — Now",
+      "heading": "Design Mentore at ADPList",
+      "url": "https://www.adplist.org/",
+      "collaborators": [],
+      "description": "ADPList is a community based on connection and inclusivity — a platform where people can find, book, and meet mentors around the world. At ADPList, we believe in inspiring meaningful conversations led by our mentors.",
+      "attachments": [],
+      "type": "volunteering",
+      "title": "Design Mentore",
+      "organization": "ADPList",
+      "location": "Remote"
+    }
+  ],
+  "education": [
+    {
+      "id": "5xMXNYT4yYhMvwgUHlGI",
+      "year": "2012 — Now",
+      "heading": "Self-taught at Internet",
+      "url": "http://google.com",
+      "collaborators": [],
+      "description": "Internet is the place where I found my passion for design. Since 2012, it helped me shape my career path and build knowledge about things that I enjoy and like without limits.",
+      "attachments": [],
+      "type": "education",
+      "degree": "Self-taught",
+      "school": "Internet",
+      "location": "Online"
+    },
+    {
+      "id": "pTcqB5JPTWdHvf4taRiY",
+      "year": "",
+      "heading": "Computer Science BA at Algiers University",
+      "url": null,
+      "collaborators": [],
+      "description": "My background in computer science makes my collaboration, and communication with the engineering team easier and more productive.",
+      "attachments": [],
+      "type": "education",
+      "degree": "Computer Science BA",
+      "school": "Algiers University",
+      "location": "Algiers, ALG"
+    }
+  ],
+  "certifications": [
+    {
+      "id": "1DRamTDVBKLgbFeskIlJ",
+      "year": "2018",
+      "heading": "Design Sprinter from AJ&Smart",
+      "url": "https://www.ajsmart.com/",
+      "collaborators": [],
+      "description": "Innovation and product development demystified and de-risked.\nI help businesses do more valuable work, faster.\n\nRight from the start, we help establish clarity, set priorities, make decisions, and bring concepts to life that users love and businesses value.",
+      "attachments": [],
+      "type": "certification",
+      "name": "Design Sprinter",
+      "organization": "AJ&Smart"
+    }
+  ],
+  "contact": [
+    {
+      "id": "kjw9eDszBP0gC5xrCB8i",
+      "platform": "Email",
+      "handle": "nidal@kralstudio.com",
+      "url": "mailto:nidal@kralstudio.com"
+    },
+    {
+      "id": "0O1LVLW3LmJQdnCDlwiD",
+      "platform": "Twitter",
+      "handle": "nidalbenatia_",
+      "url": "https://twitter.com/nidalbenatia_"
+    },
+    {
+      "id": "o85D9dGnqMCnh4dTKKbH",
+      "platform": "Instagram",
+      "handle": "nidalxbe",
+      "url": "https://instagram.com/nidalxbe"
+    },
+    {
+      "id": "NXF3HqAUPiYbeFX9V7lS",
+      "platform": "Dribbble",
+      "handle": "Nidal_Be",
+      "url": "https://dribbble.com/Nidal_Be"
+    }
+  ],
+  "allCollections": [
+    {
+      "name": "Work Experience",
+      "items": [
+        {
+          "id": "71wWegahFcXZXSeYtASe",
+          "year": "2019 — Now",
+          "heading": "Product Design Consultant/Advisor at Solana, Pokèmon GO, Letswork, Eversify, Lotus, Blee, Raasel, Brandable, STYLUS",
+          "url": null,
+          "collaborators": [],
+          "description": "I helped clients fulfill their design goals through workshops, brainstorming sessions, and milestone-building.\n\nI did this by auditing applications, websites, and other digital products to identify places where the design can be improved upon.\\\n\\\nAnd even designing the product myself.",
+          "attachments": [
+            {
+              "type": "image",
+              "width": 2000,
+              "height": 2000,
+              "url": "/content/media/Product-Design-ConsultantAdvisor-at-Solana-Pokemon-GO-Letswork-Eversify-Lotus-Blee-Raasel-Brandable-STYLUS-1.png"
+            },
+            {
+              "type": "image",
+              "width": 2000,
+              "height": 2000,
+              "url": "/content/media/Product-Design-ConsultantAdvisor-at-Solana-Pokemon-GO-Letswork-Eversify-Lotus-Blee-Raasel-Brandable-STYLUS-2.png"
+            },
+            {
+              "type": "image",
+              "width": 2000,
+              "height": 2000,
+              "url": "/content/media/Product-Design-ConsultantAdvisor-at-Solana-Pokemon-GO-Letswork-Eversify-Lotus-Blee-Raasel-Brandable-STYLUS-3.png"
+            },
+            {
+              "type": "image",
+              "width": 2000,
+              "height": 2000,
+              "url": "/content/media/Product-Design-ConsultantAdvisor-at-Solana-Pokemon-GO-Letswork-Eversify-Lotus-Blee-Raasel-Brandable-STYLUS-4.png"
+            },
+            {
+              "type": "image",
+              "width": 2000,
+              "height": 2000,
+              "url": "/content/media/Product-Design-ConsultantAdvisor-at-Solana-Pokemon-GO-Letswork-Eversify-Lotus-Blee-Raasel-Brandable-STYLUS-5.png"
+            },
+            {
+              "type": "image",
+              "width": 2000,
+              "height": 2000,
+              "url": "/content/media/Product-Design-ConsultantAdvisor-at-Solana-Pokemon-GO-Letswork-Eversify-Lotus-Blee-Raasel-Brandable-STYLUS-6.png"
+            },
+            {
+              "type": "image",
+              "width": 2000,
+              "height": 2000,
+              "url": "/content/media/Product-Design-ConsultantAdvisor-at-Solana-Pokemon-GO-Letswork-Eversify-Lotus-Blee-Raasel-Brandable-STYLUS-7.png"
+            },
+            {
+              "type": "image",
+              "width": 2000,
+              "height": 2000,
+              "url": "/content/media/Product-Design-ConsultantAdvisor-at-Solana-Pokemon-GO-Letswork-Eversify-Lotus-Blee-Raasel-Brandable-STYLUS-8.png"
+            },
+            {
+              "type": "image",
+              "width": 2000,
+              "height": 2000,
+              "url": "/content/media/Product-Design-ConsultantAdvisor-at-Solana-Pokemon-GO-Letswork-Eversify-Lotus-Blee-Raasel-Brandable-STYLUS-9.png"
+            },
+            {
+              "type": "image",
+              "width": 2000,
+              "height": 2000,
+              "url": "/content/media/Product-Design-ConsultantAdvisor-at-Solana-Pokemon-GO-Letswork-Eversify-Lotus-Blee-Raasel-Brandable-STYLUS-10.png"
+            },
+            {
+              "type": "image",
+              "width": 2000,
+              "height": 2000,
+              "url": "/content/media/Product-Design-ConsultantAdvisor-at-Solana-Pokemon-GO-Letswork-Eversify-Lotus-Blee-Raasel-Brandable-STYLUS-11.png"
+            },
+            {
+              "type": "image",
+              "width": 2000,
+              "height": 2000,
+              "url": "/content/media/Product-Design-ConsultantAdvisor-at-Solana-Pokemon-GO-Letswork-Eversify-Lotus-Blee-Raasel-Brandable-STYLUS-12.png"
+            },
+            {
+              "type": "image",
+              "width": 2000,
+              "height": 2000,
+              "url": "/content/media/Product-Design-ConsultantAdvisor-at-Solana-Pokemon-GO-Letswork-Eversify-Lotus-Blee-Raasel-Brandable-STYLUS-13.png"
+            },
+            {
+              "type": "image",
+              "width": 2000,
+              "height": 2000,
+              "url": "/content/media/Product-Design-ConsultantAdvisor-at-Solana-Pokemon-GO-Letswork-Eversify-Lotus-Blee-Raasel-Brandable-STYLUS-14.png"
+            },
+            {
+              "type": "image",
+              "width": 2000,
+              "height": 2000,
+              "url": "/content/media/Product-Design-ConsultantAdvisor-at-Solana-Pokemon-GO-Letswork-Eversify-Lotus-Blee-Raasel-Brandable-STYLUS-15.png"
+            }
+          ],
+          "type": "workExperience",
+          "title": "Product Design Consultant/Advisor",
+          "company": "Solana, Pokèmon GO, Letswork, Eversify, Lotus, Blee, Raasel, Brandable, STYLUS",
+          "location": ""
+        },
+        {
+          "id": "1MDACGpJ7NrZ15iUNvui",
+          "year": "2021 — 2023",
+          "heading": "Head of Design at TOKI",
+          "url": "https://www.buildwithtoki.com/",
+          "collaborators": [],
+          "description": "The next generation of retention, community, and loyalty for e-commerce brands. Built on the blockchain.",
+          "attachments": [
+            {
+              "type": "image",
+              "width": 2000,
+              "height": 2000,
+              "url": "/content/media/Head-of-Design-at-TOKI-1.png"
+            },
+            {
+              "type": "image",
+              "width": 2000,
+              "height": 2000,
+              "url": "/content/media/Head-of-Design-at-TOKI-2.png"
+            },
+            {
+              "type": "image",
+              "width": 2000,
+              "height": 2000,
+              "url": "/content/media/Head-of-Design-at-TOKI-3.png"
+            },
+            {
+              "type": "image",
+              "width": 2000,
+              "height": 2000,
+              "url": "/content/media/Head-of-Design-at-TOKI-4.png"
+            },
+            {
+              "type": "image",
+              "width": 2000,
+              "height": 2000,
+              "url": "/content/media/Head-of-Design-at-TOKI-5.png"
+            }
+          ],
+          "type": "workExperience",
+          "title": "Head of Design",
+          "company": "TOKI",
+          "location": "Miami, FL"
+        },
+        {
+          "id": "CYaoodRQsPg74l6APos7",
+          "year": "2019 — 2021",
+          "heading": "Founding Product Designer at Topsort",
+          "url": "https://www.topsort.com/",
+          "collaborators": [],
+          "description": "Topsort is an auction-powered API that accelerates your marketplace growth, from multi-brand retailers and marketplaces, to create better relevancy, margin, and user happiness.",
+          "attachments": [],
+          "type": "workExperience",
+          "title": "Founding Product Designer",
+          "company": "Topsort",
+          "location": "Bay Area, SF"
+        },
+        {
+          "id": "cYcHNGGztsSMQ8yPAc99",
+          "year": "2019 — 2020",
+          "heading": "Senior Product Designer at Ureed",
+          "url": "https://ureed.com/",
+          "collaborators": [],
+          "description": "Ureed.com is a platform that connects expert freelancers with employers looking for professional services in content creation and translation.",
+          "attachments": [],
+          "type": "workExperience",
+          "title": "Senior Product Designer",
+          "company": "Ureed",
+          "location": "Dubai, UAE"
+        },
+        {
+          "id": "wkr2rwNYfPn6yaF0ZX6i",
+          "year": "2018 — 2019",
+          "heading": "Design Lead at Pickmeup",
+          "url": null,
+          "collaborators": [],
+          "description": "Pickmeup allows you to book a safe and reliable ride in minutes using your smartphone. It uses GPS technology to directly connect passengers to nearby drivers in just a few seconds. Our mobile App is extremely simple and very user-friendly. You can sign up within seconds and start booking rides immediately.",
+          "attachments": [],
+          "type": "workExperience",
+          "title": "Design Lead",
+          "company": "Pickmeup",
+          "location": "San Francisco, CA"
+        }
+      ]
+    },
+    {
+      "name": "Projects",
+      "items": [
+        {
+          "id": "PTqdaxh4cYzhlzn6StAj",
+          "year": "Ongoing",
+          "heading": "Kral Team",
+          "url": "http://kralteam.com",
+          "collaborators": [],
+          "description": "In early 2022, I decided to start a design team to help SaaS startups save money and make money by providing our expertise as a product design team for a flat monthly fee.\n\nWe partnered with 8 SaaS startups so far, and the results were pretty phenomenal. We helped startups achieve a +150m valuation while saving them 65% of the cost of hiring one full-time senior product designer.\n\nMy mission with this team is to be the \"SaaS Design Partner.\"",
+          "attachments": [],
+          "type": "project",
+          "title": "Kral Team",
+          "company": null
+        }
+      ]
+    },
+    {
+      "name": "Writing",
+      "items": [
+        {
+          "id": "5SSlaMM2v1WUFwls6hCl",
+          "year": "2022",
+          "heading": "Business thinking for product designers, Nidal Benatia",
+          "url": "https://medium.com/@nben./business-thinking-for-product-designers-786999c1285a",
+          "collaborators": [],
+          "description": "Designers play a crucial role in the success of a business, as they are responsible for creating the visual elements that communicate a…",
+          "attachments": [],
+          "type": "writing",
+          "title": "Business thinking for product designers",
+          "publisher": "Nidal Benatia"
+        },
+        {
+          "id": "3Tp4XnLOhkqch5bzspuq",
+          "year": "2022",
+          "heading": "Design Thinking? Your Beginners Guide, Nidal Benatia",
+          "url": "https://medium.com/@nben./design-thinking-your-beginners-guide-medium-345c5b227f12",
+          "collaborators": [],
+          "description": "Design thinking is a problem-solving approach that involves understanding the needs of users, generating ideas, prototyping, and testing…",
+          "attachments": [],
+          "type": "writing",
+          "title": "Design Thinking? Your Beginners Guide",
+          "publisher": "Nidal Benatia"
+        }
+      ]
+    },
+    {
+      "name": "Volunteering",
+      "items": [
+        {
+          "id": "QktIHspfisfgWSxOmces",
+          "year": "2020 — Now",
+          "heading": "Design Mentore at ADPList",
+          "url": "https://www.adplist.org/",
+          "collaborators": [],
+          "description": "ADPList is a community based on connection and inclusivity — a platform where people can find, book, and meet mentors around the world. At ADPList, we believe in inspiring meaningful conversations led by our mentors.",
+          "attachments": [],
+          "type": "volunteering",
+          "title": "Design Mentore",
+          "organization": "ADPList",
+          "location": "Remote"
+        }
+      ]
+    },
+    {
+      "name": "Education",
+      "items": [
+        {
+          "id": "5xMXNYT4yYhMvwgUHlGI",
+          "year": "2012 — Now",
+          "heading": "Self-taught at Internet",
+          "url": "http://google.com",
+          "collaborators": [],
+          "description": "Internet is the place where I found my passion for design. Since 2012, it helped me shape my career path and build knowledge about things that I enjoy and like without limits.",
+          "attachments": [],
+          "type": "education",
+          "degree": "Self-taught",
+          "school": "Internet",
+          "location": "Online"
+        },
+        {
+          "id": "pTcqB5JPTWdHvf4taRiY",
+          "year": "",
+          "heading": "Computer Science BA at Algiers University",
+          "url": null,
+          "collaborators": [],
+          "description": "My background in computer science makes my collaboration, and communication with the engineering team easier and more productive.",
+          "attachments": [],
+          "type": "education",
+          "degree": "Computer Science BA",
+          "school": "Algiers University",
+          "location": "Algiers, ALG"
+        }
+      ]
+    },
+    {
+      "name": "Certifications",
+      "items": [
+        {
+          "id": "1DRamTDVBKLgbFeskIlJ",
+          "year": "2018",
+          "heading": "Design Sprinter from AJ&Smart",
+          "url": "https://www.ajsmart.com/",
+          "collaborators": [],
+          "description": "Innovation and product development demystified and de-risked.\nI help businesses do more valuable work, faster.\n\nRight from the start, we help establish clarity, set priorities, make decisions, and bring concepts to life that users love and businesses value.",
+          "attachments": [],
+          "type": "certification",
+          "name": "Design Sprinter",
+          "organization": "AJ&Smart"
+        }
+      ]
+    },
+    {
+      "name": "Contact",
+      "items": [
+        {
+          "id": "kjw9eDszBP0gC5xrCB8i",
+          "platform": "Email",
+          "handle": "nidal@kralstudio.com",
+          "url": "mailto:nidal@kralstudio.com"
+        },
+        {
+          "id": "0O1LVLW3LmJQdnCDlwiD",
+          "platform": "Twitter",
+          "handle": "nidalbenatia_",
+          "url": "https://twitter.com/nidalbenatia_"
+        },
+        {
+          "id": "o85D9dGnqMCnh4dTKKbH",
+          "platform": "Instagram",
+          "handle": "nidalxbe",
+          "url": "https://instagram.com/nidalxbe"
+        },
+        {
+          "id": "NXF3HqAUPiYbeFX9V7lS",
+          "platform": "Dribbble",
+          "handle": "Nidal_Be",
+          "url": "https://dribbble.com/Nidal_Be"
+        }
+      ]
+    }
+  ]
+}
